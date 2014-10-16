@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[adl:home|Door43 (adl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-adl|d43-adl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-adl/archive/master.zip|d43-adl.zip]]
+
+**Recent Changes**
+{{changes>ns = adl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/adl|Ethnologue data]]
+
