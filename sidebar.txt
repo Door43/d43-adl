@@ -21,5 +21,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
   * [[adl:obs|Open Bible Stories (adl)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:adl:obs:status}}
